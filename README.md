@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate business analytics professional currently pursuing my Master's in Applied Business Analytics with a focus on Data Intelligence. With a strong foundation in Business Administration and hands-on experience in data analysis, I'm always eager to tackle complex problems and derive meaningful insights from data.
+I'm a first-year grad student at the University of West Georgia pursuing my Master's in Applied Business Analytics with a focus on Data Intelligence. With a strong foundation in Business Administration and hands-on experience in data analysis, I'm always eager to tackle complex problems and derive meaningful insights from data.
 
 ## 🛠 Skills & Tools
 
