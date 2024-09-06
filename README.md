@@ -16,17 +16,16 @@ I'm a passionate business analytics professional currently pursuing my Master's 
 
 ## 🚀 Projects
 
-### KNN Iris Dataset Model
-Developed and analyzed a K-Nearest Neighbors (KNN) model for the Iris dataset, achieving 95% mean accuracy with 5-fold cross-validation 
-
-### Sales Forecasting
-Created a comprehensive SQL-based data analysis solution for a movie rental company, incorporating custom functions, ETL processes, and automated reporting to address customer satisfaction issues.
-
-### Customer Segmentation
-Implemented a K-means clustering model to segment customers based on spending patterns and demographics, resulting in five distinct groups for targeted marketing campaigns.
-
-### Destro Bikes Co. Business Simulation
-Led a business simulation project, developing strategies that resulted in market share growth from 40% to 49% and increased total demand over six quarters.
+<div>
+  <p>
+    <a href="https://github.com/JaylenSheard/ECON-Analytical-Modeling">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaylenSheard&repo=ECON-Analytical-Modeling" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/JaylenSheard/Customer-Segmentation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaylenSheard&repo=Customer-Segmentation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 ## 🌱 I'm currently learning...
 
