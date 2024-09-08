@@ -8,8 +8,9 @@ I'm a first-year grad student at the University of West Georgia pursuing my Mast
 
 ## 🛠 Skills & Tools
 
-- **Programming:** SQL, Python (NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scikit-learn)
+- **Programming:** SQL, Python
 - **Databases:** MySQL, PostgreSQL, Big Query
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scikit-learn
 - **Data Visualization:** Tableau, Power BI, Google Looker, Microsoft Excel
 - **Other Tools:** Anaconda, Jupyter Notebook, Git, VS Code
 - **Operating Systems:** Windows 10, Unix, Linux
